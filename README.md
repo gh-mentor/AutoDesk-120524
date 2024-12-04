@@ -1,2 +1,7 @@
-# AutoDesk-120524
-Copilot Prompt Engineering
+## Prompt Engineering Training for AutoDesk
+
+Instructor: Andrew Scoppa
+
+Email: andrew.scoppa@atmosera.com
+
+GH handle: andrew-scoppa
